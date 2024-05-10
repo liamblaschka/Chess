@@ -15,7 +15,7 @@ Piece::Piece(char type, char colour, int row, int col) {
 
     setPosition(row, col);
 
-    chessPieces.loadFromFile("../assets/ChessPieces.png");
+    chessPieces.loadFromFile("../../assets/ChessPieces.png");
     chessPieces.setSmooth(true);
 }
 
