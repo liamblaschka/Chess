@@ -10,24 +10,24 @@ To make a move click on a piece and the squares of the available moves will be h
 
 ## Preview images
 <div align="center">
-  <img src="https://github.com/liamblaschka/image-repo/blob/Chess/start.png?raw=true">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/start.png?raw=true">
   <p>The board is set up in starting position when running the game. It is starts as white's turn.</p>
   <img src="https://github.com/liamblaschka/image-repo/blob/Chess/select_piece.png?raw=true">
   <p>
     It is whites turn, clicking a white piece highlights the available moves,<br>
     clicking a highlighted square will then make the move.
   </p>
-  <img src="https://github.com/liamblaschka/image-repo/blob/Chess/check.png?raw=true">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/check.png?raw=true">
   <p>
     Black's king is in check from the white queen demonstrated by the orange box around the king and the output in terminal.<br>
     The black queen is selected showing its available moves, where its only option is to block the check.
   </p>
-  <img src="https://github.com/liamblaschka/image-repo/blob/Chess/checkmate.png?raw=true">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/checkmate.png?raw=true">
   <p>
     White's king is checkmated and black wins, demonstrated by the orange box and the message in terminal.<br>
     No more moves can now be made as the game is over.
   </p>
-  <img src="https://github.com/liamblaschka/image-repo/blob/Chess/stalemate.png?raw=true">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/stalemate.png?raw=true">
   <p>
     The game ends in stalemate as it is black's turn, black's king is not in check, and black cannot make any moves<br>
     as their only piece, their king, is trapped by white's queen.
