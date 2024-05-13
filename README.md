@@ -8,7 +8,7 @@ The game functionality includes rules such as check, checkmate, draw by stalemat
 To play the game run the chess executable, the game will start with the board set up and it will be white's turn first.
 To make a move click on a piece and the squares of the available moves will be highlighted, clicking any of these squares will then make the move, after which it is the opposite colour's turn to make a move.
 
-## Game images
+## Preview images
 <div align="center">
   <img src="https://github.com/liamblaschka/chess/blob/images/start.png?raw=true" width="526" height="550">
   <p>The board is set up in starting position when running the game. It is starts as white's turn.</p>
