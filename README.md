@@ -5,7 +5,20 @@ A chess game made in C++ using SFML. The code includes concepts such as object-o
 The game functionality includes rules such as check, checkmate, draw by stalemate, draw by insufficient material, castling, en passant and pawn promoting, as well as the general rules for moving each of the pieces.
 
 ## Instructions
-To play the game run the chess executable, the game will start with the board set up and it will be white's turn first.
+### To use:
+- When running the game, it will open with the board set up with it being white's turn first.
+- To make a move, click the piece you want to move to select it, the squares of the possible moves for that piece will be highlighted. To then make the move, click any of the available moves with the piece selected.
+- Pawn promotion is handling in terminal, when a pawn is moved to the end of the board, the player is prompted to enter the piece they wish to promote to. 
+- Checks, wins and draws are outputted into the terminal.
+
+### To build:
+- Make a build directory and within it run 'cmake ..' , then when it is finished, run 'make'.
+- Navigate to the bin directory within build.
+- Run the 'chess' executable.
+
+
+
+
 To make a move click on a piece and the squares of the available moves will be highlighted, clicking any of these squares will then make the move, after which it is the opposite colour's turn to make a move.
 
 ## Preview images
