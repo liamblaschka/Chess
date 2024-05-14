@@ -4,6 +4,11 @@
 A chess game made in C++ using SFML. The code includes concepts such as object-oriented programming and recursive functions.
 The game functionality includes rules such as check, checkmate, draw by stalemate, draw by insufficient material, castling, en passant and pawn promotion, as well as the general rules for moving each of the pieces.
 
+### Skills
+- C++
+- Object-Oriented Programming
+- SFML
+
 ## Instructions
 ### To use:
 - When running the game, it will open with the board set up with it being white's turn first.
