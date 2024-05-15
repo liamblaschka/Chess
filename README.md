@@ -30,7 +30,7 @@ To make a move click on a piece and the squares of the available moves will be h
 <div align="center">
   <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/start.png?raw=true">
   <p>The board is set up in starting position when running the game. It is starts as white's turn.</p>
-  <img src="https://github.com/liamblaschka/image-repo/blob/Chess/select_piece.png?raw=true">
+  <img src="https://github.com/liamblaschka/image-repo/blob/main/Chess/select_piece.png?raw=true">
   <p>
     It is whites turn, clicking a white piece highlights the available moves,<br>
     clicking a highlighted square will then make the move.
